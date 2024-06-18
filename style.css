@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    margin-right: 100vh;
+    display: flex;
+    padding:0 10px;
+    align-items: center;
+    justify-content: center;
+    background: orange;
+}
+.wrapper{
+    width: 770px;
+    padding: 35px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgb(0, 0,0,0,5);
+}
+.content{
+    padding:13px 20px 0;
+    border-radius:10px ;
+    border:1px solid #bfbfbf;
+}
