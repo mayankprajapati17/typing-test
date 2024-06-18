@@ -17,10 +17,18 @@ body{
     padding: 35px;
     background: #fff;
     border-radius: 10px;
-    box-shadow: 0 10px 15px rgb(0, 0,0,0,5);
+    box-shadow: 0 5px 5px 5px rgba(68, 67, 67, 0.982);
 }
 .content{
     padding:13px 20px 0;
     border-radius:10px ;
     border:1px solid #bfbfbf;
+
+    margin-top: 17px;
+    display: flex;
+    padding: 12px 0;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: space-between;
+    border-top:  1px solid #bfbfbf;
 }
