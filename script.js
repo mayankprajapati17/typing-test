@@ -1,1 +1,1 @@
-const typingText= document.querySelector('.typing text p')
+const typingtext= document.querySelector('.typing text p')
