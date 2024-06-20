@@ -70,4 +70,6 @@ body{
 }
 .typing-text p span.incorrect{
     color: red;
+    outline: 1px solid #fff;
+    border-radius: 4px;
 }
